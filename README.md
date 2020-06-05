@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# PROJECT INSTRUCTIONS
+## firestore security rules
+- see the tutorial 32
 
-## Available Scripts
+# Available Scripts
 
 In the project directory, you can run:
 
