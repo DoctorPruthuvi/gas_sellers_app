@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # PROJECT INSTRUCTIONS
 ## firestore security rules
@@ -69,3 +70,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# gas_sellers_app
+>>>>>>> 60a9fdcd211774a2a3cc8fa00c5debe4078dac3a
